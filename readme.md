@@ -7,3 +7,5 @@ Repositório teste, para treinar as funções de Git.
 Nova mensagem para log.
 
 Terceira edição.
+
+linha para modificação no GitHub.
