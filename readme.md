@@ -2,4 +2,7 @@
 
 Arquivo da aula de |Git e Github para iniciantes.
 
-Status
+Repositório teste, para treinar as funções de Git.
+
+Nova mensagem para log.
+
